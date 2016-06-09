@@ -1,0 +1,19 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.homePageLink {
+	font-size: 18px;
+}
+
+.searchBox {
+	margin-top: 200px;
+}
+
+.userDetails {
+	margin-top: 50px;
+}
+
+.filterOptions {
+	margin-bottom: 20px;
+}
